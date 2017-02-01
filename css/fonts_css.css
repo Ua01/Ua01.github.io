@@ -1,11 +1,11 @@
 @font-face { 
   font-family: WildYouth-Regular; 
-  src: url('Fonts/WildYouth-Regular.otf') format("opentype");
+  src: url('/fonts/WildYouth-Regular.otf') format("opentype");
 }
 
 @font-face { 
   font-family: Anurati; 
-  src: url('Fonts/Anurati.otf') format("opentype");
+  src: url('fonts/Anurati.otf') format("opentype");
 }
 
 @font-face { 
