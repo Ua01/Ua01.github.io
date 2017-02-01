@@ -1,0 +1,65 @@
+@font-face { 
+  font-family: WildYouth-Regular; 
+  src: url('Fonts/WildYouth-Regular.otf') format("opentype");
+}
+
+@font-face { 
+  font-family: Anurati; 
+  src: url('Fonts/Anurati.otf') format("opentype");
+}
+
+@font-face { 
+  font-family:PierSans-Light; 
+  src: url("fonts/PierSans/PierSans-Light.otf") format('opentype');
+}
+
+@font-face { 
+  font-family: MyriadPro-Light; 
+  src: url('fonts/Myriad-Pro-Light.ttf') format("truetype");
+}
+
+@font-face { 
+  font-family: myriad-set-Pro-thin; 
+  src: url('fonts/myriad-set-Pro-thin.ttf') format("truetype");
+  font-stretch:expanded;
+}
+
+@font-face { 
+  font-family: myriad-set-Pro-ultralight; 
+  src: url('fonts/myriad-set-Pro-ultralight.ttf') format("truetype");
+  font-stretch:expanded;
+}
+
+@font-face { 
+  font-family: Brusher-Regular; 
+  src: url('fonts/Brusher-Regular.ttf') format("truetype");
+}
+
+@font-face { 
+  font-family: CuteTumblrFont; 
+  src: url('fonts/CuteTumblrFont.ttf') format("truetype");
+
+}
+
+@font-face { 
+  font-family: source-sans-pro; 
+  src: url('fonts/source-sans-pro/SourceSansPro-Light.otf') format("opentype");
+}
+
+
+@font-face { 
+  font-family:AvenirNext; 
+  src: url('fonts/Avenir Next.ttc') format("truetype");  
+}
+
+
+@font-face { 
+  font-family:NaiveDecoSansPart1; 
+  src: url('fonts/Naive-Deco-Sans/NaiveDecoSansPart1.otf') format("opentype");
+}
+
+@font-face { 
+  font-family:Quicksand-Light; 
+  src: url('fonts/quicksand/Quicksand-Light.otf') format("opentype");
+}
+
